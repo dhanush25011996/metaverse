@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import styles from '../styles.module.css';
+import styles from '../styles.globals.css';
 import { navVariants } from '../utils/motion';
 
 const Navbar = () => (
