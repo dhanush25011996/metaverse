@@ -1,11 +1,9 @@
 {
-  "homepage": "https://dhanush25011996.github.io/metaverse",
   "name": "metaverse13",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
