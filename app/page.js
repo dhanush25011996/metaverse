@@ -2,7 +2,7 @@ import { Footer, Navbar } from '../components';
 import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
 
 const Page = () => (
-  <div className="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 overflow-hidden">
+  <div className="radial-gradient(at center bottom, rgb(253, 230, 138), rgb(124, 58, 237), rgb(12, 74, 110)) overflow-hidden">
     <Navbar />
     <Hero />
     <div className="relative">
